@@ -1,4 +1,8 @@
 # hotel_macrostay
+Voici la video de la demo sur Youtube :
+
+https://youtu.be/pOjT93dqN-0
+
 
 A new Flutter project.
 
