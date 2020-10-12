@@ -1,10 +1,5 @@
-# hotel_macrostay
-Voici la video de la demo sur Youtube :
+# hotel_microstay
 
-https://youtu.be/pOjT93dqN-0
-
-
-A new Flutter project.
 
 ## Getting Started
 
